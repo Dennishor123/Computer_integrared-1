@@ -1,7 +1,7 @@
 # Computer_integrared-1
 CIM Digital Twin Exercise 1
 
-Goal 1: Create a single box in blender or omniverse create using python script. 
+**Goal 1: Create a single box in blender or omniverse create using python script.**
 
 Description:
 1) The python script is written in single_box.py. 
@@ -11,8 +11,7 @@ Description:
 5) The objects are then linked to the scene, and the box object is set as active.
 6) You can modify the script to change the size, position, or color of the objects by modifying the values of the variables in the script.
 
-Goal 2: Create random multiple boxes in blender or omniverse create using python script. You may
-import any conveyor system and obj file from Luma AI into the same environment.
+**Goal 2: Create random multiple boxes in blender or omniverse create using python script. You may import any conveyor system and obj file from Luma AI into the same environment.**
 
 Description:
 1) The python script is written in multiple_box.py. 
